@@ -23,11 +23,11 @@ Os enunciados dos 4 exercícios podem ser encontrados na listagem abaixo:
 ## Screenshots
 
 Na figura 1, encontra-se a submissão aceita do exercício :
-<img src="">
+<img src="./asset/Captura%20de%20tela%202023-06-21%20172904.png">
 <p align="center">Figura 1 - .</p>
 
 Na figura 2, encontra-se a submissão aceita do exercício <br>
-![radius](./radiusQ.png)
+![radius](./asset/radiusQ.png)
 <p align="center">Figura 2 - .</p>
 
 <!-- Na figura 3, encontra-se a submissão aceita do exercício
