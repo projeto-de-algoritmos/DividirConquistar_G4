@@ -63,7 +63,7 @@ No **Linux**, para instalar o **g++**, execute o seguinte comando:
 
 Após instalar as dependências do projeto, realize os seguintes comandos: 
 
-    git clone [https://.git](https://github.com/projeto-de-algoritmos/DividirConquistar_G4)
+    git clone https://github.com/projeto-de-algoritmos/DividirConquistar_G4
     cd DividirConquistar
 
 ### Uso dos exercícios em 
