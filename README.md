@@ -27,7 +27,7 @@ Na figura 1, encontra-se a submissão aceita do exercício :
 <p align="center">Figura 1 - .</p>
 
 Na figura 2, encontra-se a submissão aceita do exercício <br>
-![radius](./radius.png)
+![radius](./radiusQ.png)
 <p align="center">Figura 2 - .</p>
 
 <!-- Na figura 3, encontra-se a submissão aceita do exercício
