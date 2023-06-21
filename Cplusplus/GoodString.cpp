@@ -1,5 +1,4 @@
 #include<bits/stdc++.h>
-#define REP(i,n) for (int i = 1; i <= n; i++)
 
 using namespace std;
 char ar[140000];
@@ -35,7 +34,7 @@ int main()
 	while(t--)
 	{
 		cin>>n;
-		REP(i , n) cin>>ar[i];
+		for (int i = 1; i <= n; i++)cin>>ar[i];
 		
 		cout<<getMin(1 , n , 'a')<<endl;
 	}
