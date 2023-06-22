@@ -1,0 +1,25 @@
+class Solution:
+    def sortedArrayToBST(self, nums: List[int]) -> Optional[TreeNode]:
+        if not nums:
+            return None
+
+        mid = len(nums) // 2
+
+        root = TreeNode(nums[mid])
+        root.left = self.sortedArrayToBST(nums[:mid])
+        root.right = self.sortedArrayToBST(nums[mid+1:])
+
+        return root
+
+# Exemplo de uso:
+nums = [1, 2, 3, 4, 5, 6, 7]
+solution = Solution()
+bst = solution.sortedArrayToBST(nums)
+
+def printTree(node):
+    if node:
+        printTree(node.left)
+        print(node.val)
+        printTree(node.right)
+
+printTree(bst)
