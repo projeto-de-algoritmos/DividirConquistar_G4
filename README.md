@@ -28,11 +28,11 @@ Na figura 1, encontra-se a submissão aceita do exercício:
 
 Na figura 2, encontra-se a submissão aceita do exercício: <br>
 ![radius](./asset/radiusQ.png)
-<p align="center">Figura 2 - .</p>
+<p align="center">Figura 2 - K Radius Subarray Averages.</p>
 
 Na figura 3, encontra-se a submissão aceita do exercício:
 ![convert](./asset/convert.png)
-<p align="center">Figura 3 - .</p>
+<p align="center">Figura 3 - Convert Sorted Array to Binary Search Tree.</p>
 
 <!-- Na figura 3, encontra-se a submissão aceita do exercício
 ![Na figura 3, ](./assets/)
