@@ -8,7 +8,7 @@ Repositório  com exercícios do módulo de Dividir e Conquistar da disciplina d
 | Matrícula | Aluno |
 | -- | -- |
 | 17/0107574  |  Laís Ramos Barbosa     |
-|  21/1031833 | Taynara Cristina Ribeiro Marcellos  |
+| 21/1031833  | Taynara Cristina Ribeiro Marcellos  |
 
 ## Sobre 
 
@@ -17,6 +17,7 @@ Os enunciados dos 4 exercícios podem ser encontrados na listagem abaixo:
 
 - [D. a-Good String](https://codeforces.com/problemset/problem/1385/D)
 - [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)
+- [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 <!-- - []()
 - []() -->
 
