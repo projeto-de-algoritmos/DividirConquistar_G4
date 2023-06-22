@@ -8,7 +8,7 @@ Repositório  com exercícios do módulo de Dividir e Conquistar da disciplina d
 | Matrícula | Aluno |
 | -- | -- |
 | 17/0107574  |  Laís Ramos Barbosa     |
-|  21/1031833 | Taynara Cristina Ribeiro Marcellos  |
+| 21/1031833  | Taynara Cristina Ribeiro Marcellos  |
 
 ## Sobre 
 
@@ -17,18 +17,23 @@ Os enunciados dos 4 exercícios podem ser encontrados na listagem abaixo:
 
 - [D. a-Good String](https://codeforces.com/problemset/problem/1385/D)
 - [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)
+- [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 <!-- - []()
 - []() -->
 
 ## Screenshots
 
-Na figura 1, encontra-se a submissão aceita do exercício :
+Na figura 1, encontra-se a submissão aceita do exercício:
 <img src="./asset/Captura%20de%20tela%202023-06-21%20172904.png">
 <p align="center">Figura 1 - .</p>
 
-Na figura 2, encontra-se a submissão aceita do exercício <br>
+Na figura 2, encontra-se a submissão aceita do exercício: <br>
 ![radius](./asset/radiusQ.png)
-<p align="center">Figura 2 - .</p>
+<p align="center">Figura 2 - K Radius Subarray Averages.</p>
+
+Na figura 3, encontra-se a submissão aceita do exercício:
+![convert](./asset/convert.png)
+<p align="center">Figura 3 - Convert Sorted Array to Binary Search Tree.</p>
 
 <!-- Na figura 3, encontra-se a submissão aceita do exercício
 ![Na figura 3, ](./assets/)
