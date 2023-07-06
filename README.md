@@ -16,10 +16,11 @@ Repositório  com exercícios do módulo de Dividir e Conquistar da disciplina d
 Os enunciados dos 4 exercícios podem ser encontrados na listagem abaixo:
 
 - [D. a-Good String](https://codeforces.com/problemset/problem/1385/D)
+- [169. Majority Element](https://leetcode.com/problems/majority-element/description/)
 - [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)
 - [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 <!-- - []()
-- []() -->
+[]() -->
 
 ## Screenshots
 
