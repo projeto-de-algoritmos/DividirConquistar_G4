@@ -28,11 +28,15 @@ Na figura 1, encontra-se a submissão aceita do exercício:
 <img src="./asset/Captura%20de%20tela%202023-06-21%20172904.png">
 <p align="center">Figura 1 - .</p>
 
-Na figura 2, encontra-se a submissão aceita do exercício: <br>
+Na figura 2, encontra-se a submissão aceita do exercício:
+![convert](./asset/dv4.png)
+<p align="center">Figura 3 - Convert Sorted Array to Binary Search Tree.</p>
+
+Na figura 3, encontra-se a submissão aceita do exercício: <br>
 ![radius](./asset/radiusQ.png)
 <p align="center">Figura 2 - K Radius Subarray Averages.</p>
 
-Na figura 3, encontra-se a submissão aceita do exercício:
+Na figura 4, encontra-se a submissão aceita do exercício:
 ![convert](./asset/convert.png)
 <p align="center">Figura 3 - Convert Sorted Array to Binary Search Tree.</p>
 
